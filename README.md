@@ -51,42 +51,46 @@
   việc sử dụng design pattern là một chiến lược quan trọng giúp cải thiện sự tổ chức, 
   linh hoạt và bảo trì 🛠️ của mã nguồn ngoài ra giúp cho mã nguồn có khả năng tái sử dụng.
   </p>
-<br>
-    ![h1](https://github.com/huynhthienthe/n16_qltv_v1/assets/104338354/d3295409-9dc4-4db1-a9b6-0e84e40b52c5)
-
 </details>
     <details open="" align="left">
   <summary>
     📔  một số hình ảnh của phần mền:
   </summary>
-        <p align="center">
-" alt="logo" width="21%">
 </p>
         <p align="center">
-    <img src="![Screenshot 2024-02-05 134609](https://github.com/huynhthienthe/n16_qltv_v1/assets/104338354/6dcdde0a-169d-4184-b784-658b671ac5b0)" alt="logo" width="50%">
+    <img src="![Screenshot 2024-02-05 134609](https://github.com/huynhthienthe/n16_qltv_v1/assets/104338354/6dcdde0a-169d-4184-b784-658b671ac5b0)" alt="h1" width="50%">
 </p>
         <p align="center">
-    <img src="![Screenshot 2024-02-05 134633](https://github.com/huynhthienthe/n16_qltv_v1/assets/104338354/fd79469f-f41e-4a26-bc25-c8b4001d8906)
-" alt="logo" width="21%">
+    <img src="![Screenshot 2024-02-05 134633](https://github.com/huynhthienthe/n16_qltv_v1/assets/104338354/fd79469f-f41e-4a26-bc25-c8b4001d8906)" alt="h2" width="21%">
 </p>
         <p align="center">
-    <img src="![Screenshot 2024-02-05 134727](https://github.com/huynhthienthe/n16_qltv_v1/assets/104338354/c6aeb0e5-bf2c-4e6c-ba41-7bc7e6df1bca)
-" alt="logo" width="21%">
+    <img src="![Screenshot 2024-02-05 134727](https://github.com/huynhthienthe/n16_qltv_v1/assets/104338354/c6aeb0e5-bf2c-4e6c-ba41-7bc7e6df1bca)" alt="h3" width="21%">
 </p>
         <p align="center">
-    <img src="![Screenshot 2024-02-05 134815](https://github.com/huynhthienthe/n16_qltv_v1/assets/104338354/7b34f6fd-a1ed-4058-8d7d-4aa7814e62ce)
-" alt="logo" width="21%">
+    <img src="![Screenshot 2024-02-05 134815](https://github.com/huynhthienthe/n16_qltv_v1/assets/104338354/7b34f6fd-a1ed-4058-8d7d-4aa7814e62ce)" alt="h4" width="21%">
 </p>
         <p align="center">
-    <img src="![Screenshot 2024-02-05 134845](https://github.com/huynhthienthe/n16_qltv_v1/assets/104338354/b8ff8852-8e63-4668-b30d-1348e9a2ea21)
-" alt="logo" width="21%">
+    <img src="![Screenshot 2024-02-05 134845](https://github.com/huynhthienthe/n16_qltv_v1/assets/104338354/b8ff8852-8e63-4668-b30d-1348e9a2ea21)" alt="h5" width="21%">
 </p>
 </details>
-    <details open="" align="left">
+<details open="" align="left">
   <summary>
-    📔  Cách cài đặt phần mền:
+    📔  Cách cài đặt phần mềm:
   </summary>
-    </details>
+<br>
+  B1: Bạn hãy clone project về máy ! đảm bảo rằng bạn đã có git trước đó hoặc bạn có thể tải file zip của project và giải nén nó.
+<br><br>
+  B2: hãy tải xampp về máy nếu bạn gặp khó khăn với việc tải về hãy xem video hướng dẫn này hi vọng nó có ích cho bạn!
+<br><br>
+  [![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/0Zay4yjYxJc?si=KQeZBQTwjQXAs1p7)
+<br><br>
+  B3: hãy chạy xampp của bạn:
+  <br><br>
+  ![image](https://github.com/huynhthienthe/n16_qltv_v1/assets/104338354/35d52312-387c-46ee-82ff-7f47c1d9c562)
+
+</details>
+
+
     <details open="" align="left">
   <summary>
     📔  Các tính năng của phền mền:
