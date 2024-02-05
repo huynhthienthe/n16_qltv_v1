@@ -52,19 +52,41 @@
   linh hoạt và bảo trì 🛠️ của mã nguồn ngoài ra giúp cho mã nguồn có khả năng tái sử dụng.
   </p>
 <br>
-     </details>
+</details>
     <details open="" align="left">
   <summary>
     📔  một số hình ảnh của phần mền:
   </summary>
-    </details>
-    </details>
+        <p align="center">
+    <img src="![image](https://github.com/huynhthienthe/n16_qltv_v1/assets/104338354/6e5ed1c0-d84b-4856-a979-b5ef9464b7de)" alt="logo" width="21%">
+</p>
+        <p align="center">
+    <img src="![Screenshot 2024-02-05 134609](https://github.com/huynhthienthe/n16_qltv_v1/assets/104338354/6dcdde0a-169d-4184-b784-658b671ac5b0)" alt="logo" width="21%">
+</p>
+        <p align="center">
+    <img src="![Screenshot 2024-02-05 134633](https://github.com/huynhthienthe/n16_qltv_v1/assets/104338354/fd79469f-f41e-4a26-bc25-c8b4001d8906)
+" alt="logo" width="21%">
+</p>
+        <p align="center">
+    <img src="![Screenshot 2024-02-05 134727](https://github.com/huynhthienthe/n16_qltv_v1/assets/104338354/c6aeb0e5-bf2c-4e6c-ba41-7bc7e6df1bca)
+" alt="logo" width="21%">
+</p>
+        <p align="center">
+    <img src="![Screenshot 2024-02-05 134815](https://github.com/huynhthienthe/n16_qltv_v1/assets/104338354/7b34f6fd-a1ed-4058-8d7d-4aa7814e62ce)
+" alt="logo" width="21%">
+</p>
+        <p align="center">
+    <img src="![Screenshot 2024-02-05 134845](https://github.com/huynhthienthe/n16_qltv_v1/assets/104338354/b8ff8852-8e63-4668-b30d-1348e9a2ea21)
+" alt="logo" width="21%">
+</p>
+</details>
     <details open="" align="left">
   <summary>
     📔  Cách cài đặt phần mền:
   </summary>
+        
     </details>
-        </details>
+    
     <details open="" align="left">
   <summary>
     📔  Các tính năng của phền mền:
