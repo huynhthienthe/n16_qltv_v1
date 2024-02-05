@@ -7,7 +7,33 @@
 </p>
 <h3 align="center">Đây là project của chúng mình xây dựng nhằm mục đích làm đề tài chính cho môn học MTTPM </h3>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
+<details open="" align="left">
+  <summary>
+    📔 Giới Thiệu về Các Thành viên nhóm:
+  </summary>
+  <br>
+    <h4>Nguyễn Minh Trí</h4>
+  <p align="left">
+    <a href="git@github.com:GS-755">
+      <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=GS-755&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    </a>
+    <a href="git@github.com:GS-755">
+      <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GS-755&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    </a>
+  </p>
+  <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GS-755&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="GS-755" /></p>
+      <br>
+    <h4>Huỳnh Thiện Thệ</h4>
+  <p align="left">
+    <a href="[git@github.com:huynhthienthe](https://github.com/huynhthienthe)">
+      <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=huynhthienthe&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    </a>
+    <a href="[git@github.com:huynhthienthe](https://github.com/huynhthienthe)">
+      <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynhthienthe&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    </a>
+  </p>
+  <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huynhthienthe&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="huynhthienthe" /></p>
+</details>
 <h3 align="left"> Giới Thiệu về project của nhóm: </h3>
 <div align="center">
 <p align="center">Project là một phần mền quản lý thư viện được chúng mình xây dựng ở môn học lập trình Java 
@@ -21,6 +47,6 @@
   việc sử dụng design pattern là một chiến lược quan trọng giúp cải thiện sự tổ chức, 
   linh hoạt và bảo trì 🛠️ của mã nguồn ngoài ra giúp cho mã nguồn có khả năng tái sử dụng.
   </p>
+<br>
 
 
-ăn cơm cái lát viết tiếp ! - by gacon -
