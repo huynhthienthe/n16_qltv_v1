@@ -12,7 +12,7 @@
     📔 Giới Thiệu về Các Thành viên nhóm:
   </summary>
   <br>
-    <h4>Nguyễn Minh Trí</h4>
+    <h4>Nguyễn Minh Trí (Nhóm trưởng)</h4>
   <p align="left">
     <a href="git@github.com:GS-755">
       <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=GS-755&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
@@ -25,16 +25,20 @@
       <br>
     <h4>Huỳnh Thiện Thệ</h4>
   <p align="left">
-    <a href="[git@github.com:huynhthienthe](https://github.com/huynhthienthe)">
+    <a href="git@github.com:huynhthienthe">
       <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=huynhthienthe&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
     </a>
-    <a href="[git@github.com:huynhthienthe](https://github.com/huynhthienthe)">
+    <a href="git@github.com:huynhthienthe">
       <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynhthienthe&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
     </a>
   </p>
   <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huynhthienthe&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="huynhthienthe" /></p>
 </details>
-<h3 align="left"> Giới Thiệu về project của nhóm: </h3>
+<details open="" align="left">
+  <summary>
+    📔  Giới Thiệu về project của nhóm:
+  </summary>
+      <h4 align="center">PHẦN MỀM QUẢN LÝ THƯ VIỆN</h4>
 <div align="center">
 <p align="center">Project là một phần mền quản lý thư viện được chúng mình xây dựng ở môn học lập trình Java 
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="40" height="40" /> tại trường đại học HUFLIT ! 
@@ -48,5 +52,25 @@
   linh hoạt và bảo trì 🛠️ của mã nguồn ngoài ra giúp cho mã nguồn có khả năng tái sử dụng.
   </p>
 <br>
+     </details>
+    <details open="" align="left">
+  <summary>
+    📔  một số hình ảnh của phần mền:
+  </summary>
+    </details>
+    </details>
+    <details open="" align="left">
+  <summary>
+    📔  Cách cài đặt phần mền:
+  </summary>
+    </details>
+        </details>
+    <details open="" align="left">
+  <summary>
+    📔  Các tính năng của phền mền:
+  </summary>
+        <h4>sẻ cập nhật trong thời gian sớm nhất !</h4>
+    </details>
+
 
 
