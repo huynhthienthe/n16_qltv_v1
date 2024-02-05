@@ -82,15 +82,108 @@
 <br><br>
   B2: hãy tải xampp về máy nếu bạn gặp khó khăn với việc tải về hãy xem video hướng dẫn này hi vọng nó có ích cho bạn!
 <br><br>
+    
   [![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/0Zay4yjYxJc?si=KQeZBQTwjQXAs1p7)
+  
 <br><br>
-  B3: hãy chạy xampp của bạn:
+  B3: hãy start xampp của bạn và chọn phần admin của MySQL:
   <br><br>
+  
   ![image](https://github.com/huynhthienthe/n16_qltv_v1/assets/104338354/35d52312-387c-46ee-82ff-7f47c1d9c562)
+  <br><br>
+  còn đây là giao diện của phpmyadmin:
+  <br><br>
+![image](https://github.com/huynhthienthe/n16_qltv_v1/assets/104338354/6329d820-3a35-4542-b3d2-4435a200bdfd)
+  <br><br>
+    B4: bạn hãy chuyển sang phần SQL và hãy copy đoạn Script sau:
 
+### SQL
+
+```SQL
+CREATE DATABASE n16_qltv DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+USE n16_qltv;
+
+CREATE TABLE TacGia(
+  MaTacGia INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  TenTacGia VARCHAR(50) NOT NULL,
+  Website VARCHAR(100),
+  GhiChu VARCHAR(100)
+);
+CREATE TABLE TheLoai(
+  MaTheLoai INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  TenTheLoai VARCHAR(30) NOT NULL
+);
+CREATE TABLE NhaXB(
+  MaNXB INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  TenNXB VARCHAR(50) NOT NULL,
+  Email VARCHAR(100),
+  DiaChi VARCHAR(100),
+  TenNgDaiDien VARCHAR(50) NOT NULL
+);
+CREATE TABLE NhanVien(
+  MaNV INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  TenNV VARCHAR(50) NOT NULL,
+  NgaySinh DATE NOT NULL,
+  SoDT CHAR(15) NOT NULL,
+  DiaChi VARCHAR(100),
+  TenDangNhap CHAR(20) NOT NULL,
+  MatKhau VARCHAR(64) NOT NULL,
+  GioiTinh CHAR(1) NOT NULL
+);
+CREATE TABLE DocGia(
+  MaDocGia INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  TenDocGia VARCHAR(50) NOT NULL,
+  DiaChi VARCHAR(100),
+  SoDT CHAR(15) NOT NULL,
+  TenDangNhap CHAR(20) NOT NULL,
+  MatKhau VARCHAR(64) NOT NULL,
+  GioiTinh CHAR(1) NOT NULL
+);
+CREATE TABLE Sach(
+  MaSach INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  TenSach VARCHAR(50) NOT NULL,
+  NamXuatBan INT NOT NULL,
+  BiaSach VARCHAR(255) NOT NULL,
+  MaNXB INT NOT NULL,
+  MaTacGia INT NOT NULL,
+  MaTheLoai INT NOT NULL,
+  FOREIGN KEY(MaNXB) REFERENCES NhaXB(MaNXB),
+  FOREIGN KEY(MaTacGia) REFERENCES TacGia(MaTacGia),
+  FOREIGN KEY(MaTheLoai) REFERENCES TheLoai(MaTheLoai)
+);
+CREATE TABLE TheThuVien (
+  SoThe CHAR(10) NOT NULL PRIMARY KEY,
+  NgayBatDau DATE NOT NULL,
+  NgayHetHan DATE NOT NULL,
+  GhiChu VARCHAR(100),
+  MaDocGia INT NOT NULL,
+  FOREIGN KEY(MaDocGia) REFERENCES DocGia(MaDocGia)
+);
+CREATE TABLE MuonTra(
+  MaMuonTra CHAR(10) NOT NULL PRIMARY KEY,
+  NgayMuon DATE NOT NULL,
+  SoThe CHAR(10),
+  MaNV INT NOT NULL,
+  FOREIGN KEY(SoThe) REFERENCES TheThuVien(SoThe),
+  FOREIGN KEY(MaNV) REFERENCES NhanVien(MaNV)
+);
+CREATE TABLE CTMuonTra(
+  GhiChu VARCHAR(100),
+  DaTra CHAR(1) NOT NULL,
+  NgayTra DATE NOT NULL,
+  MaMuonTra CHAR(10) NOT NULL,
+  MaSach INT NOT NULL,
+  PRIMARY KEY (MaMuonTra, MaSach),
+  FOREIGN KEY(MaMuonTra) REFERENCES MuonTra(MaMuonTra),
+  FOREIGN KEY(MaSach) REFERENCES Sach(MaSach)
+);
+```
+<br>
+B5: bạn hãy dán đoạn Script này vào phần SQL của phpmyadmin và nhấn chọn `Run` để thực thi đoạn Script trên.
+<br><br>
+B6: đây là bước cuối của phần hướng dẫn này ! bạn chỉ cần cài đặc các IDE như: IntelliJ, NextBean, ... và chọn đường dẫn bạn đã clone project về và chạy nó !
+chúc bạn thành công ! - GaCon -
 </details>
-
-
     <details open="" align="left">
   <summary>
     📔  Các tính năng của phền mền:
