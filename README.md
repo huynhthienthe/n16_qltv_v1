@@ -52,16 +52,18 @@
   linh hoạt và bảo trì 🛠️ của mã nguồn ngoài ra giúp cho mã nguồn có khả năng tái sử dụng.
   </p>
 <br>
+    ![h1](https://github.com/huynhthienthe/n16_qltv_v1/assets/104338354/d3295409-9dc4-4db1-a9b6-0e84e40b52c5)
+
 </details>
     <details open="" align="left">
   <summary>
     📔  một số hình ảnh của phần mền:
   </summary>
         <p align="center">
-    <img src="![image](https://github.com/huynhthienthe/n16_qltv_v1/assets/104338354/6e5ed1c0-d84b-4856-a979-b5ef9464b7de)" alt="logo" width="21%">
+" alt="logo" width="21%">
 </p>
         <p align="center">
-    <img src="![Screenshot 2024-02-05 134609](https://github.com/huynhthienthe/n16_qltv_v1/assets/104338354/6dcdde0a-169d-4184-b784-658b671ac5b0)" alt="logo" width="21%">
+    <img src="![Screenshot 2024-02-05 134609](https://github.com/huynhthienthe/n16_qltv_v1/assets/104338354/6dcdde0a-169d-4184-b784-658b671ac5b0)" alt="logo" width="50%">
 </p>
         <p align="center">
     <img src="![Screenshot 2024-02-05 134633](https://github.com/huynhthienthe/n16_qltv_v1/assets/104338354/fd79469f-f41e-4a26-bc25-c8b4001d8906)
@@ -84,9 +86,7 @@
   <summary>
     📔  Cách cài đặt phần mền:
   </summary>
-        
     </details>
-    
     <details open="" align="left">
   <summary>
     📔  Các tính năng của phền mền:
