@@ -21,3 +21,6 @@
   việc sử dụng design pattern là một chiến lược quan trọng giúp cải thiện sự tổ chức, 
   linh hoạt và bảo trì 🛠️ của mã nguồn ngoài ra giúp cho mã nguồn có khả năng tái sử dụng.
   </p>
+
+
+ăn cơm cái lát viết tiếp ! - by gacon -
